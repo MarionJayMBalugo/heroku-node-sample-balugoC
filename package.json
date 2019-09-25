@@ -1,0 +1,30 @@
+{
+  "name": "heroku-node-sample-balugoc",
+  "version": "1.0.0",
+  "description": "sample application for node",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^1.7.3"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarionJayMBalugo/heroku-node-sample-balugoC.git"
+  },
+  "keywords": [
+    "node",
+    "heroku"
+  ],
+  "author": "marion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarionJayMBalugo/heroku-node-sample-balugoC/issues"
+  },
+  "homepage": "https://github.com/MarionJayMBalugo/heroku-node-sample-balugoC#readme",
+  "engines": {
+    "node": "10.15"
+  }
+}
